@@ -1,8 +1,8 @@
 <template>
-  <div class="container mx-auto px-6 pb-6 pt-32">
+  <div class="container mx-auto px-6 pb-6 pt-16">
     <main class="mt-12">
       <!-- featured section -->
-      <div class="flex space-x-0 md:space-x-6 mb-16">
+      <div class="flex flex-wrap lg:flex-nowrap space-x-0 md:space-x-6 mb-16">
         <!-- main post -->
         <div
           class="mb-4 lg:mb-0 p-4 lg:p-0 w-full md:w-4/7 relative rounded block"

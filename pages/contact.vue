@@ -1,7 +1,7 @@
 <template>
   <section
     id="contact-section"
-    class="min-h-screen bg-gradient-to-r from-blue-600 via-blue-800 to-blue-900"
+    class="min-h-screen bg-gradient-to-r from-blue-600 via-blue-800 to-blue-900 shadow-lg dark:from-gray-700 dark:via-gray-800 dark:to-gray-900"
   >
     <div class="container mx-auto flex min-h-screen flex-col px-6 py-12">
       <div class="flex-1 lg:-mx-6 lg:flex lg:items-center">
